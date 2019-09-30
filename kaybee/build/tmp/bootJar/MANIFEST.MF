@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Start-Class: com.spar.kb.KnowledgeBase
+Main-Class: org.springframework.boot.loader.JarLauncher
+
